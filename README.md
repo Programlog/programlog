@@ -30,7 +30,7 @@ Hi, I'm Varun Kota!
 
 ## Contact
 - 📧 Email: varunk3249@gmail.com
-- [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/varun-k-244825204/)
+- ![Linkedin](https://i.sstatic.net/gVE0j.png)LinkedIn: [LinkedIn](https://www.linkedin.com/in/varun-k-244825204/)
 &nbsp;
 
 Feel free to reach out or check out my work!
